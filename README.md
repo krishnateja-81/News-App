@@ -40,8 +40,8 @@ npm start
 
 ## Screenshots
 
-![Screenshot 1](link-to-screenshot)
-![Screenshot 2](link-to-screenshot)
+![news App](https://github.com/krishnateja-81/News-App/blob/master/newsapp.jpg)
+
 
 ## License
 
