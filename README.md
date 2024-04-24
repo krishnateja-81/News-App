@@ -1,6 +1,4 @@
-Sure, here's a sample description you can use for your news app's README file:
 
----
 
 # News App
 
