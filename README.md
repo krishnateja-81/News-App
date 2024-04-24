@@ -49,10 +49,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [email@example.com](mailto:email@example.com)
+Your Name - [krishnatejasirvisetti@gmail.com](mailto:krishnateja8212@gmail.com)
 
 Project Link: [https://github.com/krishnateja-81/News-App](https://github.com/krishnateja-81/News-App)
-
----
-
-Remember to replace the placeholders (such as `yourusername`, `your-repo`, `email@example.com`, `link-to-your-live-demo`, `link-to-screenshot`) with your actual information.
