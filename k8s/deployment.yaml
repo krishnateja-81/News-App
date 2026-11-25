@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: news-app
-          image: ghcr.io/krishnateja-81/news-app:initial
+          image: ghcr.io/krishnateja-81/news-app:33b744e
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 80
